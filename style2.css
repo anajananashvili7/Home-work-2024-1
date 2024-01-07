@@ -1,0 +1,45 @@
+h1 {
+    text-align: center;
+    border-bottom: 1px solid #fff;
+    margin:auto 480px
+}
+
+label {
+    font-size: 25px;
+}
+
+.under-input {
+    font-size: 12px;
+}
+
+input {
+    height:30px;
+    border-radius: 6px;
+}
+
+.input-flex {
+    display: flex;
+    justify-content: space-between;
+    margin:auto 575px;
+    padding-top: 30px;
+}
+
+.input3 {
+    margin:auto 575px;
+    padding-top: 30px;
+}
+
+.input3 input {
+    width:400px
+}
+
+.flex-input {
+display: flex;
+}
+
+.container {
+    border: 1px solid #fff;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    
+}

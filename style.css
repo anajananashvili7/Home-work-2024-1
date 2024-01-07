@@ -1,0 +1,58 @@
+.header1 {
+    text-align: center;
+    border:3px solid black;
+    margin:20px 600px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+}
+
+nav ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    
+    
+    
+}
+
+nav {
+    background-color: rgb(81, 79, 79);
+    color:#fff;
+    padding:20px;
+    width:300px;
+    margin:auto
+}
+
+.under-header {
+    text-align: center;
+}
+
+.under-header p {
+    margin:auto 550px;
+    padding-bottom: 20px;
+}
+
+.center {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+.names {
+    text-align: center;
+ 
+}
+
+h3 {
+    text-align: center;
+}
+
+.cat-images  {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+ padding-top: 20px;
+}
